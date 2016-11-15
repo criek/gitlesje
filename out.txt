@@ -7241,3 +7241,4 @@
 {\color{gray} 195:17:48} SWIM 1 Roger. This is SWIM 1, Apollo 11.
 {\color{gray} 195:17:54} CDR . . . 300 feet.
 {\color{gray} 195:17:56} SWIM 1 Roger. You're looking real good.
+{\color{white}195:10:00} NARR And thus the story ends.
