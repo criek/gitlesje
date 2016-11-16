@@ -26,7 +26,7 @@
 {\color{gray} 000:03:52} CDR Roger.
 {\color{gray} 000:04:01} CC 11, Houston. YOU are GO at 4 minutes.
 {\color{gray} 000:04:04} CDR Roger.
-{\color{gray} 000:05:03} CC 11, Houston. You are GO at 5 minutes.
+{\color{gray} 000:05:03} CC 11, Houston. You are GO at 5 minut.
 {\color{gray} 000:05:06} CDR Roger. It'll - Apollo 11. Go.
 {\color{gray} 000:05:21} CC Stand by the S-IVB to COI capability.
 {\color{gray} 000:05:25} CDR Okay.
