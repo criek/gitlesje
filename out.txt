@@ -100,7 +100,7 @@
 {\color{gray} 000:53:31} CC That's affirmative.
 {\color{gray} 000:53:35} LMP Okay. NOUN 71: we used 30 and 37, four balls 1; NOUN 93: plus 00016, plus 00033, plus 00152; GET 00 48 15; check star 34. Over.
 {\color{gray} 000:54:02} CC Roger. Say again check star.
-{\color{gray} 000:54:06} LMP Check star 34.
+{\color{gray} 000:54:06} LMP Check star 34
 {\color{gray} 000:54:09} CC Roger. We copy. And the angles look good.
 {\color{gray} 000:54:13} CMP And tell Glenn Parker down at the Cape that he lucked out.
 {\color{gray} 000:54:17} CC Understand. Tell Glenn Parker he lucked out.
