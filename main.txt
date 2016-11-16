@@ -5,7 +5,7 @@
 <<<<<<< HEAD
 struct group_info init_groups = { .usage = ATOMIC_INIT(6) };
 =======
-struct group_info init_groups = { .usage = ATOMIC_INIT(jack) };
+struct group_info init_groups = { .usage = ATOMIC_INIT(jac) };
 >>>>>>> e40713f0ee29af9c0e335203999189f200ef815c
 
 struct group_info *groups_alloc(int gidsetsize){
