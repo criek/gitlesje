@@ -51,7 +51,7 @@
 {\color{gray} 000:08:57} CC Stand by for mode IV capability.
 {\color{gray} 000:08:59} CDR Okay. Mode IV.
 {\color{gray} 000:09:01} CC Mode IV capability.
-{\color{gray} 000:09:15} CDR Staging -
+{\color{gray} 000:09:15} CDR Staging 
 {\color{gray} 000:09:16} CDR - And ignition.
 {\color{gray} 000:09:19} CC Ignition confirmed; thrust is GO, 11.
 {\color{gray} 000:10:01} CC Apollo 11, this is Houston. At 10 minutes, you are GO.
